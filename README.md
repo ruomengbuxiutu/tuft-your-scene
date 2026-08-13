@@ -2,8 +2,6 @@
 
 Turn a photo into a cute, recognizable illustrated Tufting rug. The skill preserves the subject's identity and a useful middle level of detail, simplifies photographic clutter, balances lively colors, and creates believable high/low pile texture.
 
-![City bloom example](examples/city-bloom-demo.png)
-
 ## What it does
 
 - Keeps 3–8 identifying features so the subject remains recognizable at thumbnail size.
