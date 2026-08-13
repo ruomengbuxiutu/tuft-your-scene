@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tuft Your Scene"
+  short_description: "Turn photos into soft, minimal and quietly cute Tufting rugs"
+  default_prompt: "使用 $tuft-your-scene 高度提炼这张照片：删除 70%–90% 的具象细节，只保留一个核心关系和不超过 7 个圆润形状，用低到中饱和的奶油调色板重构成可爱、安静的 Tufting 地毯，画面内不要出现中文。"
