@@ -1,4 +1,4 @@
 interface:
   display_name: "Tuft Your Scene"
-  short_description: "Turn photos into vivid sculptural Tufting scene rugs"
-  default_prompt: "使用 $tuft-your-scene 把这张照片重构成主体与场景关系清晰、色彩明快协调、具有真实高低绒浮雕的 Tufting 地毯；完整显示地毯，最长边只占画布约 70%–78%，四周保留 10%–15% 均匀边距；承托背景使用完全一致的哑光纯色，不能有光斑、窗影、渐变或暗角；画面内绝对不要添加任何文字、字母、数字、Logo 或仿文字。"
+  short_description: "Turn photos into cute simplified sculptural Tufting rugs"
+  default_prompt: "使用 $tuft-your-scene 先把照片压缩成 8–16 个大色块、5–8 色的可爱卡通地毯图案稿，再转化为真实高低绒 Tufting；主动删除人物衣褶与阴影、发丝、动物毛流、车辆机械线、反光和碎月坑。整体微暖但不能染黄，背景使用与主体和谐且从四角到中心完全一致的纯色；完整显示地毯并保留均匀边距；绝对不要添加任何文字、字母、数字、Logo 或仿文字。"
