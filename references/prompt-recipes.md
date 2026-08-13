@@ -1,16 +1,18 @@
-# 具象场景浮雕 Tufting 提示词
+# 可爱卡通场景浮雕 Tufting 提示词
 
 ## 通用无文字配方
 
-> 将输入照片重新设计成一张主体清晰可辨、场景关系完整的插画型 Tufting 簇绒浮雕地毯。场景命题是：[一句话关系]。保留 [主体] 的 [4–9 个身份特征]，并保留 [2–4 层空间关系]。删除 [摄影噪点、密集窗格、逐根枝叶、品牌文字、次要对象]。缩略图尺寸仍要一眼认出原场景。
+> 将输入照片重新设计成一张主体清晰、圆润可爱的卡通 Tufting 簇绒浮雕地毯。场景命题是：[一句话关系]。只保留 [主体] 的 [3–6 个身份特征] 与 [2–3 层空间关系]。删除摄影噪点、毛发走向、衣服褶皱和阴影、面部明暗、发丝、密集窗格、车身分件、反光、机械细节、碎月坑、品牌文字和次要对象。缩略图尺寸仍要一眼认出原场景。
 >
-> 把画面重构为 12–24 个圆润、厚实、可实际簇绒制作的主要形状，使用 6–10 色协调色板：[颜色]。中等饱和为主，1–3 个较亮重点色，用奶油浅色与深色锚点稳定；no gray cast, no dusty desaturation, no neon overload。它是经过整理的具象场景，不是极简图标，也不是摄影级微缩模型。
+> 先形成一张无绒毛、无纹理、无光影的平涂地毯图案稿，再把它制作成簇绒成品。图案稿只使用 8–16 个主要形状、5–8 色微暖协调色板：[颜色]。外轮廓粗而圆，内部线极少，手脚为简单手套形或胶囊形，头发为一个整体色块，每个对象内部最多 2–4 个分区。cute cartoon rug pattern, chunky rounded silhouette, minimal internal lines, flat yarn color blocks。中等饱和，保留主体辨识色，用奶油浅色和炭色稳定；no gray cast, no yellow cast, no dusty desaturation, no neon overload。
 >
 > 制作为真实手工 Tufting 浮雕：远景/底面短圈绒，主体大面中等割绒，[云烟/花瓣/近景树枝/毛发等重点]使用更高蓬松割绒；使用 3–8 mm 修剪沟槽和低绒嵌块分界；两到三档绒高；完整包边。
 >
+> 所有体积只能来自绒高、沟槽与色块重叠，不能来自写实阴影。no realistic anatomy, no fur strands, no garment folds, no fabric shadows, no facial shading, no hair strands, no reflections, no wheel spokes, no headlight internals, no tiny mechanical details, no crater noise。
+>
 > 构图锁定：地毯完整落在画布中央，最长边只占画布约 70%–78%，四周保留约 10%–15% 均匀空白，所有尖端、树梢和外轮廓都不得触边或被裁切。entire rug fully visible, consistent breathing room on every side, not oversized。
 >
-> 背景锁定：单一、均匀、哑光的 [暖象牙白/浅燕麦/指定纯色]，从四角到中心颜色和明度完全一致。no directional light, no sunlight, no window shadow, no light spot, no gradient, no vignette, no texture, no wall-floor seam, no props。仅允许地毯边缘极轻、无方向性的贴地阴影。
+> 背景锁定：从 [暖象牙白/浅杏/浅燕麦/根据主体选择的和谐微暖纯色] 中选择一种，单一、均匀、哑光，从四角到中心颜色和明度完全一致。整体只微暖，不能套黄色滤镜。no directional light, no sunlight, no window shadow, no light spot, no gradient, no vignette, no texture, no wall-floor seam, no props。仅允许地毯边缘极轻、无方向性的贴地阴影。
 >
 > 画面内绝对无文字：no text, no letters, no numbers, no Chinese characters, no English words, no logo, no badge, no pseudo-text, no glyphs, no caption, no watermark, no signature。no poster, no before-and-after, no original-photo inset, no knitting, no crochet, no embroidery, no felt art。
 
@@ -39,9 +41,12 @@
 
 ## 人物、动物或车辆
 
-- 保留姿态/方向、整体剪影、主色块与 4–8 个身份特征；
+- 保留姿态/方向、整体剪影、主色块与 3–6 个身份特征；
 - 采用稳定异形地毯或简单场景底垫；
 - 背景元素只保留能证明地点或动作的 1–3 组；
+- 人物：发型 1 块、脸部 3–5 个简单记号、衣服 2–5 块；禁止褶皱、阴影、缝线和写实手指；
+- 动物：身体 2–4 块、脸部 3–5 个简单记号；禁止毛流、肌肉与复杂关节；
+- 车辆：车身、玻璃、两轮、灯、关键饰带和尾翼；禁止轮毂辐条、灯组内部、车身分件与反光；
 - 删除服装文字、车标、车牌、招牌和所有仿文字。
 
 ## 用户明确要求文字时
