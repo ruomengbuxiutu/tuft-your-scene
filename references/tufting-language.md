@@ -1,4 +1,4 @@
-# 具象场景浮雕 Tufting 视觉语言
+# 可爱卡通场景浮雕 Tufting 视觉语言
 
 ## 1. 三张基准样图的共同语言
 
@@ -6,7 +6,7 @@
 - 火车桥梁：机车、3 节车厢、重复桥拱、绿坡与大团蒸汽共同组成叙事；不是单独的火车剪影。
 - 森林湖泊：两棵高松框景，中央湖、远山、云雾和多层林带都有清楚前后关系；不是一块绿色抽象纹样。
 
-它们的核心是“经过整理的具象场景 + 明显的簇绒浮雕”，不是极简图标，也不是摄影复刻。
+它们的核心是“可辨认的卡通图案稿 + 明显的簇绒浮雕”。先压缩成少色大形，再添加绒面；不能把摄影复刻直接毛绒化。
 
 ## 2. 建议密度
 
@@ -14,15 +14,27 @@
 |---|---:|
 | 地毯占画布 | 70%–78% |
 | 四周安全边距 | 10%–15% |
-| 身份特征 | 4–9 个 |
-| 主要形状 | 12–24 个 |
-| 主要颜色 | 6–10 色 |
-| 场景层级 | 2–4 层 |
-| 高绒重点 | 4–10 处 |
+| 身份特征 | 3–6 个 |
+| 主要形状 | 8–16 个；复杂场景最多 18 个 |
+| 主要颜色 | 5–8 色 |
+| 场景层级 | 2–3 层 |
+| 高绒重点 | 3–7 处 |
 
-花叶、树冠、桥拱、云团等重复形可以超过形状区间，但应组成清楚群组，不逐项照搬照片。
+花叶、树冠、桥拱、云团等重复形必须先合并为清楚群组，不逐项照搬照片。
 
-## 3. 场景类型
+## 3. 卡通化硬规则
+
+- 先想象它被画成一张无纹理平涂图案：若脱离绒毛材质后仍显得像照片描摹，继续简化。
+- 外轮廓比内部结构重要；一个对象通常只允许 2–4 块内部色形。
+- 小于地毯短边约 3% 的非必要结构直接删除；不要用细线模拟真实光影。
+- 人物衣服是干净色块，不画褶皱、阴影、缝线和鞋带；头发是整体块面，不画发丝。
+- 动物身体是圆润的 2–4 块，不画毛流、肌肉和关节塑形；五官只保留点、短线和一个鼻口形。
+- 车辆只保留剪影、玻璃、两轮、灯和关键饰带；不画轮毂辐条、灯组内部、车身分件与反射。
+- 建筑只保留地标性球、柱、拱、顶；不画网格、窗洞、栏杆和装饰纹样。
+- 月亮只保留 5–9 块月海和最多 3 个环形山；不画碎坑和颗粒地形。
+- 可爱来自圆角、短粗、柔和不对称和少量比例夸张；不要自动加脸，也不要大头幼儿化。
+
+## 4. 场景类型
 
 ### 花卉与城市
 
@@ -52,7 +64,7 @@
 - 允许少量场景底垫支持叙事，但不要变成拥挤微缩景观；
 - 五官与车辆结构要少而准确；不添加无依据表情、品牌或符号。
 
-## 4. 轮廓与浮雕
+## 5. 轮廓与浮雕
 
 - 外轮廓为柔和不规则形或稳定主体剪影，避免大量细尖；
 - 色块边缘有轻微手工曲线，仍然干净清楚；
@@ -60,17 +72,18 @@
 - 通过绒高、色差和沟槽分界，不依赖满画面黑色描边；
 - 包边颜色从主体深色或中性色中选取，宽度稳定。
 
-## 5. 背景与画布锁定
+## 6. 微暖配色、背景与画布锁定
 
-- 背景只使用一个均匀哑光纯色，默认暖象牙白或浅燕麦色；
+- 色板优先保留主体辨识色，并用奶油白、炭色与微暖中性色连接；暖感来自绒线配色关系，不是全局黄滤镜；
+- 背景只使用一个均匀哑光纯色，默认暖象牙白、浅杏或浅燕麦色；也可根据主体选择和谐微暖纯色；
 - 四角、中心和边缘的背景色与明度保持一致；
 - 禁止窗框影、树影、阳光条带、聚光灯、渐变、暗角、纸纹、布纹、墙地交界和道具；
 - 地毯最长边占画布 70%–78%，四周都能看到足够背景；
 - 地毯不得触碰画布边缘，尖角与树梢也必须留在安全区内；
 - 仅允许极轻的中性贴地阴影帮助识别厚度，不能有方向明显的长投影。
 
-## 6. 文字规则与排除词
+## 7. 文字规则与排除词
 
 默认：`no text, no letters, no numbers, no logo, no caption, no watermark, no signature, no pseudo-text, no glyphs`。
 
-排除：`cropped rug, edge-to-edge rug, oversized rug, uneven margins, window shadow, sunlight beam, directional shadow, gradient background, vignette, textured background, props, gray cast, dusty desaturation, extreme abstraction, photorealistic miniature, every window, every leaf vein, knitted fabric, crochet, embroidery, needle felt, loose yarn`。
+排除：`cropped rug, edge-to-edge rug, oversized rug, uneven margins, window shadow, sunlight beam, directional shadow, gradient background, vignette, textured background, props, gray cast, yellow color cast, dusty desaturation, extreme abstraction, photorealistic miniature, realistic anatomy, fur strands, garment folds, fabric shadows, facial shading, hair strands, wheel spokes, headlight internals, panel lines, reflections, crater noise, every window, every leaf vein, knitted fabric, crochet, embroidery, needle felt, loose yarn`。
