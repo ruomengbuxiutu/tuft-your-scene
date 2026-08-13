@@ -1,29 +1,28 @@
 # Tuft Your Scene
 
-Turn a photo into a cute, recognizable illustrated Tufting rug. The skill preserves the subject's identity and a useful middle level of detail, simplifies photographic clutter, balances lively colors, and creates believable high/low pile texture.
+Turn a photo into a vivid, recognizable and sculptural Tufting scene rug.
 
-## What it does
+The default look follows three visual anchors: a flower-and-city garden, a steam train crossing a multi-arch bridge, and a forest lake framed by tall pines. It preserves the essential scene relationship while translating photographic detail into layered cut-pile and loop-pile relief.
 
-- Keeps 3–8 identifying features so the subject remains recognizable at thumbnail size.
-- Uses a balanced 8–18 major shapes instead of literal photographic detail or extreme abstraction.
-- Uses five to nine coordinated colors: mostly medium saturation, supported by light breathing space and a dark anchor.
-- Creates believable cut-pile, loop-pile, carved grooves, and two to three pile heights.
-- Outputs no text, letters, numbers, logos, captions, or watermarks unless the user explicitly provides the exact requested string.
-- Prevents gray casts, neon overload, poster layouts, detailed miniatures, and generic yarn filters.
+## Default look
+
+- Keeps 4–9 identifying features and two to four clear spatial layers.
+- Uses roughly 12–24 major illustrated shapes and 6–10 coordinated colors.
+- Preserves recognizable flowers, trees, trains, bridges, lakes, mountains, people, animals or vehicles instead of reducing them to abstract icons.
+- Builds tactile relief with cut pile, loop pile, carved grooves and two to three pile heights.
+- Uses a perfectly uniform solid matte background with no sunlight, window shadows, gradients, vignettes or props.
+- Shows the entire rug at about 70%–78% of the canvas, leaving an even 10%–15% margin on all sides.
+- Outputs no text, letters, numbers, logos, captions, pseudo-text or watermarks unless the user explicitly supplies the exact string.
 
 ## Install
 
-Download this repository and place the `tuft-your-scene` folder in your Codex skills directory.
+Download this repository and place it in your Codex skills directory as `tuft-your-scene`.
 
 ## Use
 
-Upload a photo and ask:
-
 ```text
-Use $tuft-your-scene to turn this photo into a cute, recognizable illustrated Tufting rug with no text.
+Use $tuft-your-scene to turn this photo into a recognizable sculptural Tufting scene rug. Keep the background perfectly uniform and leave an even margin around the complete rug. Add no text.
 ```
-
-The default output is a single finished-rug image on a clean neutral surface with absolutely no text. Text is only allowed when the user explicitly supplies the exact string.
 
 ## Structure
 
